@@ -22,7 +22,7 @@ public class BonAppétit {
     }
 
     public static void main(String[] args) {
-        List<Integer> list = Arrays.asList(3,10,2,9);
+        List<Integer> list = Arrays.asList(3,10,25,9);
         bonAppetit(list,1,7);
 
     }
